@@ -1,6 +1,6 @@
 {
    "appName": {
-      "message":"Aria2 for Chrome"
+      "message":"Aria2 for Edge"
    },
    "description": {
       "message":"Aria2 Web UI 支援手動添加和自動攔截下載工作到Aria2。（分叉自YAAW）"
@@ -105,7 +105,7 @@
       "message":"雲端同步設定"
    },
    "configCloudSyncDes":{
-      "message":"同步AriaNG和擴充功能設定到當前登入的Google帳號"
+      "message":"同步AriaNG和擴充功能設定到當前登入的微軟帳號"
    },
    "uploadConfigWarn":{
       "message":"本機設定為空或無效，仍然繼續？"
